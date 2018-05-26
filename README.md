@@ -12,7 +12,7 @@ This is a WordPress theme that works with [Unyson](http://unyson.io/) and [UIkit
 
 ## Installation
 
-1. [Download the latest release](https://github.com/gabyferman/###/releases/latest)
+1. [Download the latest release](https://github.com/gabyferman/24coffee-theme/releases/latest)
 2. Extract the archive to the `/wp-content/themes/` directory
 3. Activate the theme through the 'Appearance > Themes' menu in WordPress
 
@@ -30,7 +30,7 @@ Documentation for UIkit is available at: https://getuikit.com/docs/introduction
 
 ## Copyright and license
 
-Code released under [the GPL license](https://github.com/gabyferman/###/blob/master/LICENSE).
+Code released under [the GPL license](https://github.com/gabyferman/24coffee-theme/blob/master/LICENSE).
 
 ### Third-party Libraries
 
